@@ -1,0 +1,8 @@
+# Download Data > 1_download_dataset.py
+# Clean Data > 0_preprocess_data.py
+# Train and evaluate the model > 2_train_and_eval_model.py
+
+
+# Vivek
+Use sklearn vector to make feature vectorize.
+Use label encorder for class.

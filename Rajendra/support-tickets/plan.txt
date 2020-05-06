@@ -6,3 +6,9 @@
 # Vivek
 Use sklearn vector to make feature vectorize.
 Use label encorder for class.
+Split data by stratified.
+Create model with SMV muticlassifier.
+
+
+# Make function with input text output will be label encorder.
+
